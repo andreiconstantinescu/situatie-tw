@@ -1,0 +1,7 @@
+body {
+  color: #333333;
+  font-family: 'Source Sans Pro', Sans-Serif;
+}
+table td:hover {
+  cursor: pointer;
+}
