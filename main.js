@@ -229,10 +229,8 @@ $(document).ready(function () {
     var trEnd = '</tr>';
 
     table += trStart + tdNrStart + tdNrEnd + tdName + tdAtt + tdP1 + tdTest + tdPunctaj + trEnd ;
-    // console.log(table)
   }
   table += '</tbody>';
-  console.log(table);
   $('#tabel-note').html(table);
   $('.more-info').popover({
     html: true
