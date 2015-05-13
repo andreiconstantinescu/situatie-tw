@@ -56,7 +56,7 @@ $(document).ready(function () {
     },
     {
       name: "DUMITRU V.M EMANUEL-CRISTIAN",
-      att: 8,
+      att: 9,
       test: 10,
       p1: 10
     },
@@ -74,7 +74,7 @@ $(document).ready(function () {
     },
     {
       name: "JINGA C COSMIN",
-      att: 7,
+      att: 8,
       test: 10,
       p1: 'sa trimita'
     },
@@ -98,13 +98,13 @@ $(document).ready(function () {
     },
     {
       name: "NABOULSI F MAYA",
-      att: 9,
+      att: 10,
       test: 10,
       p1: 10,
     },
     {
       name: "NGUYEN S VAN TU",
-      att: 10,
+      att: 11,
       test: 10,
       p1: 10,
     },
@@ -128,7 +128,7 @@ $(document).ready(function () {
     },
     {
       name: "PETCULESCU M.C GEORGE-MIHAI",
-      att: 7,
+      att: 8,
       p1: 10,
       test: 10
     },
@@ -141,14 +141,14 @@ $(document).ready(function () {
     {
       name:"PREDESCU I MARA-CALINA",
       test: 10,
-      att: 7,
+      att: 9,
       p1: 10
     },
     {
       name: "PURDILA I ANDREI",
       test: 9,
       p1: 10,
-      att: 9
+      att: 10
     },
     {
       name: "RAILEANU A.C LAURA-NICOLETA",
@@ -171,7 +171,7 @@ $(document).ready(function () {
     {
       name: "SIMUT V PAVEL",
       test: 5,
-      att: 6,
+      att: 7,
       p1: 10
     },
     {
