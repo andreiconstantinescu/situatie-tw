@@ -5,3 +5,20 @@ body {
 table td:hover {
   cursor: pointer;
 }
+
+.st-head-row { padding-top: 1em; }
+.st-head-row.st-head-row-main { font-size: 1.5em; padding-top: 0; }
+.st-key { width: 49%; text-align: right; padding-right: 1%; }
+.st-val { width: 49%; padding-left: 1%; }
+
+.responsive th{
+  text-align: center;
+  border-bottom: 1px solid black
+}
+.responsive.large-only { display: table; }
+.responsive.small-only { display: none; }
+
+@media (max-width: 800px) {
+  .responsive.large-only { display: none; }
+  .responsive.small-only { display: table; }
+}
