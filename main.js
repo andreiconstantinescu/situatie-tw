@@ -107,6 +107,7 @@ var students = [
     att: 12,
     test: 10,
     p1: 10,
+    p2: 10
   },
   {
     name: "NICULAI D DRAGOS-ANDREI",
@@ -183,13 +184,13 @@ var students = [
   {
     name: "URSU GH ROBERT-ANDREI",
     att: 3,
-    p1: 9,
+    p1: 10,
     test: 10
   },
   {
     name: "TOMA BEATRICE RAMONA",
     att: 3,
-    p1: 9,
+    p1: 10,
     test: 10
   },
   {
