@@ -1,7 +1,7 @@
 var students = [
   {
     name: "ACHIAUA G ANDREI-MARIAN",
-    att: 5,
+    att: 6,
     p1: 10,
     test: 10
   },
@@ -74,7 +74,7 @@ var students = [
   },
   {
     name: "JINGA C COSMIN",
-    att: 8,
+    att: 9,
     test: 10,
     p1: 'sa trimita'
   },
@@ -104,7 +104,7 @@ var students = [
   },
   {
     name: "NGUYEN S VAN TU",
-    att: 11,
+    att: 12,
     test: 10,
     p1: 10,
   },
@@ -141,7 +141,7 @@ var students = [
   {
     name:"PREDESCU I MARA-CALINA",
     test: 10,
-    att: 9,
+    att: 10,
     p1: 10
   },
   {
@@ -171,7 +171,7 @@ var students = [
   {
     name: "SIMUT V PAVEL",
     test: 5,
-    att: 7,
+    att: 8,
     p1: 10
   },
   {
@@ -182,13 +182,13 @@ var students = [
   },
   {
     name: "URSU GH ROBERT-ANDREI",
-    att: 2,
+    att: 3,
     p1: 9,
     test: 10
   },
   {
     name: "TOMA BEATRICE RAMONA",
-    att: 2,
+    att: 3,
     p1: 9,
     test: 10
   },
