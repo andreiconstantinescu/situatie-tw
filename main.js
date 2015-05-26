@@ -185,13 +185,15 @@ var students = [
     name: "URSU GH ROBERT-ANDREI",
     att: 3,
     p1: 10,
-    test: 10
+    test: 10,
+    p2: 10
   },
   {
     name: "TOMA BEATRICE RAMONA",
     att: 3,
     p1: 10,
-    test: 10
+    test: 10,
+    p2: 10
   },
   {
     name: "OANCEA COSMIN - ADRIAN",
