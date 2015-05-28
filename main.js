@@ -8,8 +8,8 @@ var students = [
   },
   {
     name: "ANITA M LIVIU-BRANCO",
-    att: 1,
-    p1: 'sa trimita',
+    att: 2,
+    p1: 10,
     test: 7
   },
   {
@@ -27,7 +27,7 @@ var students = [
   },
   {
     name: "CIUBUC G FLORIN-MARIAN",
-    test: 3,
+    test: 7,
     p1: 10,
     att: 4,
     p2: 10,
@@ -244,7 +244,6 @@ $(document).ready(function () {
     var test = students[i].test ? students[i].test : 0;
 
     var prezenta = (students[i].att >= 8 ? 20 : (p3 ? p3 : students[i].att));
-    console.log(students[i].name, students[i].att, prezenta, prezenta, p3);
     var punctaj = (typeof p1 === 'number' ? p1 : 0 ) + (typeof p2 === 'number' ? p2 : 0 ) + test + prezenta;
 
     var nota = getNota(punctaj);
@@ -265,7 +264,7 @@ $(document).ready(function () {
     var tdAtt = '<td>' + students[i].att + '</td>';
     var tdP1 = '<td>' + p1 + '</td>';
     var tdP2 = '<td>' + p2 + '</td>';
-    var tdActivitate = '<td>' + prezenta + '</td>';
+    var tdActivitate = '<td>' + prezenta + (students[i].p3 ? ' - joc' : '')  + '</td>';
     var tdTest = '<td>' + students[i].test + '</td>';
     var tdPunctaj = '<td>' + punctaj + ' puncte</td>';
     var tdNota = '<td>' + nota + '</td>';
