@@ -218,7 +218,8 @@ var students = [
     name: "OANCEA COSMIN - ADRIAN",
     att: 2,
     test: 0,
-    p1: 9
+    p1: 9,
+    p3: 14
   }
 ];
 
